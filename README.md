@@ -41,12 +41,14 @@ The **Paint App** is a simple yet versatile web-based drawing tool that lets use
 ## Screenshots/GIFs
 
 *Main screen of the Paint App showcasing the drawing area and settings panel.*
-![image](https://github.com/user-attachments/assets/884b23b0-8dc7-4817-812f-8ea329b9c6f5)
+![image](https://github.com/user-attachments/assets/18c42539-622b-4dff-9acf-9e259310dc8d)
+
 
 *Using different brush types including airbrush, pen, and calligraphy pen and diiferent shapes.*
-![image](https://github.com/user-attachments/assets/5ed9a9ed-11f1-496f-a6d1-74fe2bf912e2)
+![image](https://github.com/user-attachments/assets/6b7d0a83-3bd0-452d-9763-be9614e6f3ed)
 
-*
+
+
 
 ## Notable Challenges & Solutions
 - **Challenge**: Synchronizing the brush settings with the canvas drawing context to ensure real-time updates when the user changes settings like color or width.
