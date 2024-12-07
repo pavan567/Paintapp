@@ -9,8 +9,10 @@ The **Paint App** is a simple yet versatile web-based drawing tool that lets use
 - **Brush Types**: Choose from Pen, AirBrush, Calligraphy Pen, and Eraser tools.
 - **Shape Tools**: Draw different shapes, including Lines, Arrows, Rectangles, Circles, and Equilateral Triangles.
 - **Adjustable Brush Settings**: Customize brush color, width, and opacity to achieve desired effects.
-- **Canvas Background Customization**: Change the background color of the canvas to create unique artworks.
 - **Save and Load Drawings**: Save your canvas as an image file or load an image onto the canvas to enhance it with additional drawings.
+- **New Blank Page:** Quickly clear the canvas and start fresh with a new blank page
+- **Brush Opacity:**  A high opacity means the color is solid and opaque, while a low opacity means the color is more transparent or see-through.
+- **Brush Width:** The brush width determines the thickness of the line or stroke drawn with a brush tool.
 
 ## Technologies Used
 - **React**: JavaScript library used for building the user interface.
